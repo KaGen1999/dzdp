@@ -9,3 +9,5 @@
 自行配置cookie之后可以入库，并在本地生成最新字典
 ## get_data.py 
 自行配置cookie之后可以用于测试
+## 配套复用教程
+https://www.clingclang.cn/index.php/2020/02/29/dzdpsvg1/
